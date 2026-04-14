@@ -23,7 +23,9 @@ Tech stack:
 ```txt
 /
   AGENTS.md
+  README.md
   package.json
+  package-lock.json
   tsconfig.json
   next.config.ts
   next-env.d.ts
@@ -159,6 +161,15 @@ This is the active and working configuration.
 If styles appear stale after edits, perform a hard refresh:
 
 - Windows: `Ctrl + F5`
+
+---
+
+## Git Repository Notes
+
+- Git repository is initialized and tracking branch is `main`.
+- Remote `origin` is set to `https://github.com/CalebOkwise/a-portfolio-site.git`.
+- Initial scaffold commit has been created and pushed.
+- `README.md` has been added with setup instructions and pushed.
 
 ---
 
